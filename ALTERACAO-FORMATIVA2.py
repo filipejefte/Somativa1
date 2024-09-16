@@ -1,5 +1,5 @@
-mensagens = ['Amo docker', 'Docker é incrível', 'Containers são úteis']
+mensagens = ['Gosto de docker', 'Docker é legal', 'Containers são úteis']
 
 for msg in mensagens:
     print(msg)
-    print('oi')
+    print('ok')
