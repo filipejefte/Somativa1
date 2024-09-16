@@ -1,4 +1,2 @@
-def mensagem():
-    return 'Amo docker'
-
-print(mensagem())
+mensagem = 'Amo docker'
+print(mensagem)
