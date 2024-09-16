@@ -1,2 +1,4 @@
-# Imprime uma mensagem sobre Docker
-print('Amo docker')
+def mensagem():
+    return 'Amo docker'
+
+print(mensagem())
