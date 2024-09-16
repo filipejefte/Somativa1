@@ -1,6 +1,4 @@
-uso_docker = True
+mensagens = ['Amo docker', 'Docker é incrível', 'Containers são úteis']
 
-if uso_docker:
-    print('Amo docker')
-else:
-    print('Não uso docker')
+for msg in mensagens:
+    print(msg)
